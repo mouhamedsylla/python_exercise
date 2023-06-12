@@ -1,0 +1,12 @@
+
+Obtenir-votre-agent-utilisateur
+https://useragent.fr/
+
+Liste-de-serveurs-proxy
+http://www.freeproxylists.net/fr/
+
+Documentation-tkinter
+https://docs.python.org/fr/3/library/tk.html
+
+Documentation-PAGE-GUI
+http://page.sourceforge.net/html/intro.html
